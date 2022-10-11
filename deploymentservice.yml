@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: dev/nodeapp:latest
+        image: projectridho/nodeapp
         ports:
         - containerPort: 3000
         

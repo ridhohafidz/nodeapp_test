@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    dockerimagename = "dev/nodeapp"
+    dockerimagename = "projectridho/nodeapp"
     dockerImage = ""
   }
 
