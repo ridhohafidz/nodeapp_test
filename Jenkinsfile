@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    dockerimagename = "registry.dev.ms-biznetgio.net/dev/nodeapp"
+    dockerimagename = "dev/nodeapp"
     dockerImage = ""
   }
 
