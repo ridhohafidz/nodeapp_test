@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: projectridho/nodeapp:latest
+        image: registry.dev.ms-biznetgio.net/dev/nodeapp:latest
         ports:
         - containerPort: 3000
         
